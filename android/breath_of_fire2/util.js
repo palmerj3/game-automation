@@ -39,10 +39,12 @@ const MAPPING = {
   'TESTING': [
     '302',
     '302'
+  ],
+  'Y': [
+    '303',
+    '303'
   ]
 };
-
-// Unknown 289, 290, 291, 296, 297, 298, 299
 
 // Command decorators - run these after every command
 const DECORATORS = [
